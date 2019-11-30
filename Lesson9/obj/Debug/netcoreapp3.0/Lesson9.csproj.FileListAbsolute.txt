@@ -1,0 +1,11 @@
+C:\Users\AlicePC\source\repos\Lesson9\Lesson9\bin\Debug\netcoreapp3.0\Lesson9.exe
+C:\Users\AlicePC\source\repos\Lesson9\Lesson9\bin\Debug\netcoreapp3.0\Lesson9.deps.json
+C:\Users\AlicePC\source\repos\Lesson9\Lesson9\bin\Debug\netcoreapp3.0\Lesson9.runtimeconfig.json
+C:\Users\AlicePC\source\repos\Lesson9\Lesson9\bin\Debug\netcoreapp3.0\Lesson9.runtimeconfig.dev.json
+C:\Users\AlicePC\source\repos\Lesson9\Lesson9\bin\Debug\netcoreapp3.0\Lesson9.dll
+C:\Users\AlicePC\source\repos\Lesson9\Lesson9\bin\Debug\netcoreapp3.0\Lesson9.pdb
+C:\Users\AlicePC\source\repos\Lesson9\Lesson9\obj\Debug\netcoreapp3.0\Lesson9.csprojAssemblyReference.cache
+C:\Users\AlicePC\source\repos\Lesson9\Lesson9\obj\Debug\netcoreapp3.0\Lesson9.AssemblyInfoInputs.cache
+C:\Users\AlicePC\source\repos\Lesson9\Lesson9\obj\Debug\netcoreapp3.0\Lesson9.AssemblyInfo.cs
+C:\Users\AlicePC\source\repos\Lesson9\Lesson9\obj\Debug\netcoreapp3.0\Lesson9.dll
+C:\Users\AlicePC\source\repos\Lesson9\Lesson9\obj\Debug\netcoreapp3.0\Lesson9.pdb
